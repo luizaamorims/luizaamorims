@@ -1,4 +1,4 @@
-# Olá! Eu sou Luiza Amorim 👋
+# Olá! sou Luiza Amorim 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Luiza%20Amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-amorims)](https://www.linkedin.com/in/luiza-amorims)
 [![GitHub](https://img.shields.io/badge/-@luizaamorims-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luizaamorims)
