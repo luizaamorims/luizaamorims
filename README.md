@@ -11,6 +11,7 @@
 ---
 
 🎓 Estudante de **Engenharia de Software** na UCSAL (2º semestre)  
+📚 Atualmente participando do Bootcamp ELASTECH da Soulcode com Pagbank
 💻 Apaixonada por desenvolvimento e tecnologia  
 🚀 Buscando oportunidades de estágio na área de TI  
 📍 Brasil  
@@ -21,7 +22,7 @@
 
 Atualmente, estou me aprofundando em fundamentos de programação com Java, algoritmos, estruturas de dados e orientação a objetos.  
 Também estou explorarando o mundo C# e .NET.  
-Tenho interesse em desenvolvimento backend, mas também curto explorar um pouco de frontend, sempre buscando evoluir como dev full stack.
+Tenho interesse em desenvolvimento backend, mas também curto explorar um pouco de frontend, sempre buscando evoluir como dev.
 
 Além disso, adoro desafios que envolvem lógica, design de sistemas e automação de processos.
 
