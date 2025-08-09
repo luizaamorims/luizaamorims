@@ -11,7 +11,7 @@
 ---
 
 🎓 Estudante de **Engenharia de Software** na UCSAL (2º semestre)  
-📚 Atualmente participando do Bootcamp ELASTECH da Soulcode com Pagbank
+📚 Atualmente participando do Bootcamp ELASTECH da Soulcode com Pagbank 
 💻 Apaixonada por desenvolvimento e tecnologia  
 🚀 Buscando oportunidades de estágio na área de TI  
 📍 Brasil  
