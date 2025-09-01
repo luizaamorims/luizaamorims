@@ -36,7 +36,7 @@ Além disso, adoro desafios que envolvem lógica, design de sistemas e automaç�
 - Git e GitHub 🐙
 - SQL 🗃️
 - Estruturas de Dados e Algoritmos 📊
-- Linux (Zorin OS, Linux Mint) 🐧
+- Linux (Zorin OS, Cachy OS) 🐧
 
 ---
 
