@@ -5,7 +5,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)](https://zorin.com/os/)
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
+![CachyOS](https://img.shields.io/badge/CachyOS-2e3440?style=for-the-badge&logo=archlinux&logoColor=00bcd4)
 [![VSCode](https://img.shields.io/badge/Code-VSCode-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ---
