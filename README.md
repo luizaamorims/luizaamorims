@@ -34,7 +34,7 @@ Além disso, adoro desafios que envolvem lógica, design de sistemas e automaç�
 - C# e .NET 🧩
 - HTML, CSS e JavaScript 🌐
 - Git e GitHub 🐙
-- SQL 🗃️
+- PostgreSQL 🗃️
 - Estruturas de Dados e Algoritmos 📊
 - Linux (Zorin OS, Cachy OS) 🐧
 
