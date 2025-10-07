@@ -20,7 +20,7 @@
 
 ## 💡 Sobre mim
 
-Atualmente, estou me aprofundando em fundamentos de programação com Java, algoritmos, estruturas de dados e orientação a objetos.  
+Atualmente, estou me aprofundando em fundamentos de programação com Java, algoritmos, estruturas de dados, orientação a objetos e spring boot.  
 Também estou explorarando o mundo C# e .NET.  
 Tenho interesse em desenvolvimento backend, mas também curto explorar um pouco de frontend, sempre buscando evoluir como dev.
 
