@@ -30,11 +30,11 @@ Além disso, adoro desafios que envolvem lógica, design de sistemas e automaç�
 
 ## 🛠️ Tecnologias que estou estudando
 
-- Java ☕
+- Java, SpringBoot ☕
 - C# e .NET 🧩
 - HTML, CSS e JavaScript 🌐
 - Git e GitHub 🐙
-- PostgreSQL 🗃️
+- PostgreSQL, MYSQL, Docker 🗃️
 - Estruturas de Dados e Algoritmos 📊
 - Linux (Zorin OS, Cachy OS) 🐧
 
