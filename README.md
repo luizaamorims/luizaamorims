@@ -1,108 +1,108 @@
 <div align="center">
 
-# Olá! Eu sou a Luiza Amorim 🪽😽🐚
+# Hello! I'm Luiza Amorim 🪽🐚
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-amorims)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaamorims)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
-## 👩‍💻 Sobre mim
+## 👩‍💻 About Me
 
 ```java
 public class LuizaAmorim {
-    private String pronouns = "ela/dela";
+    private String pronouns = "she/her";
     private String location = "Salvador, BA 🇧🇷";
-    private String education = "Engenharia de Software - UCSAL (3º semestre)";
-    private String currentFocus = "Backend Development com Java e Spring Boot";
-    private String bootcamp = "ELASTECH - Soulcode com Pagbank";
-    private String lookingFor = "Oportunidades de estágio em TI";
+    private String education = "Software Engineering - UCSAL (3rd semester)";
+    private String currentFocus = "Backend Development with Java and Spring Boot";
+    private String bootcamp = "ELASTECH - Soulcode with Pagbank";
+    private String lookingFor = "IT internship opportunities";
     private List<String> interests = Arrays.asList(
-        "Desenvolvimento Backend",
+        "Backend Development",
         "Clean Code",
-        "Arquitetura de Software"
+        "Software Architecture"
     );
     
-    public void apresentacao() {
-        System.out.println("Olá! Eu sou a Luiza 👋");
-        System.out.println("Desenvolvedora Backend | Estudante de Engenharia de Software");
+    public void introduction() {
+        System.out.println("Hello! I'm Luiza 👋");
+        System.out.println("Backend Developer | Software Engineering Student");
     }
 }
 ```
 
-Sou estudante de Engenharia de Software apaixonada por resolver problemas através da tecnologia. Atualmente, estou me aprofundando em desenvolvimento backend com **Java** e **Spring Boot**, além de explorar o ecossistema **.NET** com C#. 
+I'm a Software Engineering student passionate about solving problems through technology. Currently, I'm diving deep into backend development with **Java** and **Spring Boot**, as well as exploring the **.NET** ecosystem with C#.
 
-Adoro desafios que envolvem lógica de programação, design de sistemas e automação de processos. Acredito que código limpo e bem documentado faz toda a diferença!
+I love challenges involving programming logic, system design, and process automation. I believe clean and well-documented code makes all the difference!
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Technologies & Tools
 
-### Linguagens
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Bibliotecas
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Banco de Dados
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas & Tecnologias
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Sistemas Operacionais
+### Operating Systems
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-2e3440?style=for-the-badge&logo=archlinux&logoColor=00bcd4)
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizaamorims&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaamorims&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizaamorims&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaamorims&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizaamorims&theme=tokyonight&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizaamorims&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
-## 🎯 Projetos em Destaque
+## 🎯 Featured Projects
 
-### 🎵 [Sistema de Vendas de Álbuns](https://github.com/luizaamorims/sistema-vendas-albuns)
-Sistema desenvolvido em Java aplicando conceitos de Orientação a Objetos, com interface via terminal para gerenciamento de vendas de álbuns musicais.
+### 🎵 [Album Sales System](https://github.com/luizaamorims/sistema-vendas-albuns)
+System developed in Java applying Object-Oriented Programming concepts, with a terminal interface for managing music album sales.
 
-**Tecnologias:** Java, OOP, Collections
+**Technologies:** Java, OOP, Collections
 
 ---
 
-### 📂 [Outros Projetos](https://github.com/luizaamorims?tab=repositories)
-Confira meus outros projetos acadêmicos e estudos pessoais!
+### 📂 [Other Projects](https://github.com/luizaamorims?tab=repositories)
+Check out my other academic projects and personal studies!
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
-- 🔸 Arquitetura de Software e Design Patterns
-- 🔸 API RESTful com Spring Boot
-- 🔸 Testes Unitários e TDD
-- 🔸 Estruturas de Dados e Algoritmos avançados
-- 🔸 Docker e containerização
+- 🔸 Software Architecture and Design Patterns
+- 🔸 RESTful API with Spring Boot
+- 🔸 Unit Testing and TDD
+- 🔸 Advanced Data Structures and Algorithms
+- 🔸 Docker and containerization
 
-## 💬 Vamos conversar?
+## 💬 Let's Connect?
 
-Estou sempre aberta a novos desafios, colaborações e oportunidades de aprendizado! Se você tem algum projeto interessante ou quer trocar uma ideia sobre tecnologia, entre em contato:
+I'm always open to new challenges, collaborations, and learning opportunities! If you have an interesting project or want to chat about technology, feel free to reach out:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-amorims)
-[![GitHub](https://img.shields.io/badge/-Seguir_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaamorims)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-amorims)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaamorims)
 
 </div>
 
