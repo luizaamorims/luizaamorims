@@ -91,7 +91,6 @@ Check out my other academic projects and personal studies!
 
 - 🔸 Software Architecture and Design Patterns
 - 🔸 RESTful API with Spring Boot
-- 🔸 Unit Testing and TDD
 - 🔸 Advanced Data Structures and Algorithms
 - 🔸 Docker and containerization
 
