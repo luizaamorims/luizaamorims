@@ -14,10 +14,10 @@
 public class LuizaAmorim {
     private String pronouns = "she/her";
     private String location = "Salvador, BA 🇧🇷";
-    private String education = "Software Engineering - UCSAL (4rd semester)";
+    private String education = "Software Engineering - UCSAL (4th semester)";
     private String currentFocus = "Backend Development with Java and Spring Boot";
     private String bootcamp = "ELASTECH - Soulcode with Pagbank";
-    private String lookingFor = "IT internship opportunities";
+    private String role = "Trainee at Pagbank";
     private List<String> interests = Arrays.asList(
         "Backend Development",
         "Clean Code",
